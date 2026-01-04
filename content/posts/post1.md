@@ -32,3 +32,5 @@ John Gruber of - https://daringfireball.net/ fame.
 
 hmm .. ok ..
 
+Next what I might do is change some fonts...
+
